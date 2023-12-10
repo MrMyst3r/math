@@ -3,7 +3,6 @@ import streamlit as st
 
 # 데이터셋과 시각화용 라이브러리
 import mglearn
-import graphviz
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
