@@ -3,4 +3,4 @@ mglearn
 numpy
 pandas
 matplotlib
-sklearn
+scikit-learn
